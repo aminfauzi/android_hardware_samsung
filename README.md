@@ -8,4 +8,4 @@ Hardware Tree for Samsung Galaxy Note 3 Snapdragon
 -------------------------------------------------------
 
 
-Modified by  **[Jprimero15](http://github.com/jprimero15/ "Jprimero15")** & **[Aminfauzi](https://github.com/aminfauzi")** for AOSP base ROMs
+Modified by  **[Jprimero15](http://github.com/jprimero15/ "Jprimero15")** & **[Aminfauzi](https://github.com/aminfauzi/ "aminfauzi")** for AOSP base ROMs
